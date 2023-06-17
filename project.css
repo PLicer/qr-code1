@@ -1,0 +1,32 @@
+body {
+  background-color: hsl(212, 45%, 89%);
+  margin-top: 150px;
+}
+main {
+  width: 240px;
+  background-color: hsl(0, 0%, 100%);
+  margin: 36px auto 0 auto;
+  font-family: "Outfit";
+  font-size: 14px;
+  padding-top: 250px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border-radius: 16px;
+  margin-top: -255px;
+  padding-bottom: 20px;
+  box-shadow: 5px 5px 5px hsl(220, 15%, 55%, 0.3);
+  text-align: center;
+  color: hsl(220, 15%, 55%);
+}
+img {
+  display: block;
+  width: 240px;
+  margin: 36px auto 0 auto;
+  border-radius: 10px;
+  border: 1px solid;
+}
+#imp {
+  font-size: 20px;
+  color: hsl(218, 44%, 22%);
+  font-weight: 700;
+}
